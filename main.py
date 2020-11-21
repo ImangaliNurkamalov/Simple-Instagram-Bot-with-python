@@ -21,8 +21,5 @@ def main(username):
         .click()
     sleep(7)
 
-def concat_flw():
-    print("lol")
-
 if __name__ == "__main__":
     main("imvgvli")
